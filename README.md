@@ -1,4 +1,4 @@
-# Algoritma_KisaSinav_2
+## Algoritma_KisaSinav_2
 <ul>
 <li>1. Struct Nedir?</li>
 Struct, C ve C++ gibi programlama dillerinde kullanılan bir veri yapısıdır. Struct içinde farklı türden verileri bir araya getirmek için kullanılır. Örneğin, teklif verenin ismi, teklif miktarı gibi farklı veri tiplerini içeren bir yapı oluşturabilirsiniz.
