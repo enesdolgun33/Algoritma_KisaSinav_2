@@ -3,7 +3,7 @@
 <li>Struct Nedir?</li>
 Struct, C ve C++ gibi programlama dillerinde kullanılan bir veri yapısıdır. Struct içinde farklı türden verileri bir araya getirmek için kullanılır. Örneğin, teklif verenin ismi, teklif miktarı gibi farklı veri tiplerini içeren bir yapı oluşturabilirsiniz.
 </ul>
-##Typedef Nedir?
+# Typedef Nedir?
 <ul>
 <li>##Typedef Nedir?</li>
 Typedef, mevcut veri tiplerine alternatif isimler atanmasını sağlayan bir C dilindeki bir özelliktir. Özellikle karmaşık veri tiplerinin isimlendirilmesini kolaylaştırarak kodun okunabilirliğini artırır.
