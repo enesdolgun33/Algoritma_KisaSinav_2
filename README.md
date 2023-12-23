@@ -1,14 +1,13 @@
-# Algoritma_KisaSinav_2
+# Açık Arttırma Uygulaması
+> Struct, Typedef, İşaretçi tanımı ve kullanımı 
 <ul>
 <li>Struct Nedir?</li>
 Struct, C ve C++ gibi programlama dillerinde kullanılan bir veri yapısıdır. Struct içinde farklı türden verileri bir araya getirmek için kullanılır. Örneğin, teklif verenin ismi, teklif miktarı gibi farklı veri tiplerini içeren bir yapı oluşturabilirsiniz.
-</ul>
-# Typedef Nedir?
-<ul>
-<li>##Typedef Nedir?</li>
+
+<li>Typedef Nedir?</li>
 Typedef, mevcut veri tiplerine alternatif isimler atanmasını sağlayan bir C dilindeki bir özelliktir. Özellikle karmaşık veri tiplerinin isimlendirilmesini kolaylaştırarak kodun okunabilirliğini artırır.
 
-<li>##İşaretçiler (Pointers) Hakkında Kısa Bilgi:</li> 
+<li>İşaretçiler (Pointers) Hakkında Kısa Bilgi:</li> 
 İşaretçiler, bir değişkenin bellek adresini tutabilen özel veri tipleridir. Bu, fonksiyonlarda bellek kullanımını optimize etmek, dinamik bellek yönetimi sağlamak ve veri yapıları üzerinde etkili işlemler yapmak için kullanılır.
 
 <li>Algoritma ve Struct, Typedef, İşaretçilerin Kullanımı:</li> 
