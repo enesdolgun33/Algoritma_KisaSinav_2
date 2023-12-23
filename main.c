@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#include <conio.h> 
 #define MAX_TEKLIF_SAYISI 100
 
 typedef struct {
@@ -48,10 +48,12 @@ int main() {
 
         printf("Devam etmek ister misiniz? (E/H): ");
         scanf(" %c", &devam);
+        
+        system("cls");
+        teklifleriGoster(teklifler, teklifSayisi);
 
     } while ((devam == 'E' || devam == 'e') && teklifSayisi < MAX_TEKLIF_SAYISI);
 
-    teklifleriGoster(teklifler, teklifSayisi);
     enYuksekTeklifiBelirle(teklifler, teklifSayisi);
 
     return 0;
