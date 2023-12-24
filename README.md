@@ -24,6 +24,11 @@ Bu iki alan arasındaki ilişki, katılımcıların kendi çıkarlarını en iyi
 </ul> 
 
 > Uygulamaya ait çalışan uygulama kodları ve örnek ekran çıktıları
-> 
+>
+![](teklifgöster.png)
+
+![](teklif.png)
+
 ![](teklifal.png)
+
 ![](tumteklif.png)
