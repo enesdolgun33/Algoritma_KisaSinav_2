@@ -22,3 +22,8 @@ Oyun teorisi, karar verme süreçlerini ve stratejik etkileşimleri inceleyen bi
 
 Bu iki alan arasındaki ilişki, katılımcıların kendi çıkarlarını en iyi şekilde koruma stratejilerini geliştirmelerini gerektirebilir. Ayrıca, açık artırmalarda yapılan stratejik kararlar, oyun teorisi modelleri ile analiz edilebilir.
 </ul> 
+
+> Uygulamaya ait çalışan uygulama kodları ve örnek ekran çıktıları
+> 
+![](teklifal.png)
+![](tumteklif.png)
